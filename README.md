@@ -22,7 +22,7 @@ vllm-skills/
 └── README.md
 ```
 
-## Skills
+## Skills Example
 
 ### vllm-deploy
 
@@ -60,7 +60,7 @@ See [skills/vllm-deploy/SKILL.md](skills/vllm-deploy/SKILL.md) for full document
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/hsliuustc0106/vllm-skills.git
+   git clone https://github.com/vllm-project/vllm-skills.git
    cd vllm-skills
    ```
 
@@ -74,7 +74,7 @@ See [skills/vllm-deploy/SKILL.md](skills/vllm-deploy/SKILL.md) for full document
 3. Install dependencies:
 
    ```bash
-   pip install vllm
+   uv pip install vllm
    ```
 
 For Docker deployment, ensure you have Docker and the NVIDIA Container Toolkit installed.

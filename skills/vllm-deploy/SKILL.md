@@ -91,7 +91,7 @@ print(response.choices[0].message.content)
 For local deployment:
 - Python 3.10+
 - GPU with CUDA support
-- vLLM installed: `pip install vllm`
+- vLLM installed: `uv pip install vllm`
 
 For Docker deployment:
 - Docker installed
