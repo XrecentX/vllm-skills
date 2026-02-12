@@ -62,7 +62,7 @@ This will:
 6. Test the API with a sample request
 7. Display the server status
 
-### Run individual commands (for step-by-step usage or trouble shooting)
+### Run individual commands (for step-by-step usage or troubleshooting)
 
 **Install vLLM:**
 ```bash
